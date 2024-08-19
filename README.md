@@ -1,7 +1,7 @@
 # Pantry Tracker
 
 <div align="center">
-<img alt="Night Coding" src="./assets/Kritagya%20Kumra%20Banner.jpg" align="center"/>
+<img alt="Night Coding" src="[./assets/Kritagya%20Kumra%20Banner.jpg](https://github.com/Kritagya-web/Kritagya-web/blob/main/assets/code.gif?raw=true)" align="center"/>
 </div>
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kritagya</h2>
